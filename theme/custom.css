@@ -86,6 +86,9 @@
     .warning {
         color: rgb( 240, 20, 20 )
         }  
+    .output_area {
+    	max-height: 400px;
+    }
 </style>
 <script>
     MathJax.Hub.Config({
